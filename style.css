@@ -1,0 +1,45 @@
+*{
+  margin: 2% 0.5%;
+  font-family:"COMIC SANS MS";
+}
+ul{
+  list-style-type:none;
+  display:inline;
+}
+li{
+  display:inline;
+}
+a{
+  text-decoration:none;
+  color:green;
+  font-size:18px;
+}
+img{
+  margin:0 auto;
+  border-radius:20% 40%;
+  max-width:750px;
+  max-height:750px;
+}
+h1,h2{
+  text-align:center;
+}
+header,section{
+  margin:5% 0%;
+  padding:2% 6%;
+  box-shadow: 0px 3px 2px #566;
+}
+header{
+  margin:2% 0%;
+  padding:1% 6%;
+}
+p,strong{
+  font-size:20px;
+  padding:0% 5%;
+  line-height:40px;
+}
+address{
+  float:left;
+}
+span{
+  float:right;
+}
