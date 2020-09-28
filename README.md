@@ -1,0 +1,1 @@
+This is re-created after 3 to 4 years. Initially this was made as a part of 30Days30 site challenge, the theme was supposed to be a website about yourself but instead of creating a resume website showcasing my professional and carrier aspects, I chose to made a site reflecting my philosophy and how I see the life.
